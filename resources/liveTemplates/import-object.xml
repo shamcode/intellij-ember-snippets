@@ -1,0 +1,312 @@
+<templateSet group="Ember.js import object">
+	<template name="imreads" value="import { reads } from '@ember/object/computed';$END$" description="Ember.computed.reads" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcomputed" value="import { computed } from '@ember/object';$END$" description="Ember.computed" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imaddObserver" value="import { addObserver } from '@ember/object/observers';$END$" description="Ember.addObserver" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcollect" value="import { collect } from '@ember/object/computed';$END$" description="Ember.computed.collect" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="impolyfillCreate" value="import { create } from '@ember/polyfills';$END$" description="Ember.create" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immap" value="import { map } from '@ember/object/computed';$END$" description="Ember.computed.map" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immax" value="import { max } from '@ember/object/computed';$END$" description="Ember.computed.max" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imnone" value="import { none } from '@ember/object/computed';$END$" description="Ember.computed.none" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imlte" value="import { lte } from '@ember/object/computed';$END$" description="Ember.computed.lte" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imuniqBy" value="import { uniqBy } from '@ember/object/computed';$END$" description="Ember.computed.uniqBy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsendEvent" value="import { sendEvent } from '@ember/object/events';$END$" description="Ember.sendEvent" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imfilterProperty" value="import { filterProperty } from '@ember/object/computed';$END$" description="Ember.computed.filterProperty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immatch" value="import { match } from '@ember/object/computed';$END$" description="Ember.computed.match" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imremoveObserver" value="import { removeObserver } from '@ember/object/observers';$END$" description="Ember.removeObserver" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imnot" value="import { not } from '@ember/object/computed';$END$" description="Ember.computed.not" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imremoveListener" value="import { removeListener } from '@ember/object/events';$END$" description="Ember.removeListener" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imset" value="import { set } from '@ember/object';$END$" description="Ember.set" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imbool" value="import { bool } from '@ember/object/computed';$END$" description="Ember.computed.bool" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsetDiff" value="import { setDiff } from '@ember/object/computed';$END$" description="Ember.computed.setDiff" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immapBy" value="import { mapBy } from '@ember/object/computed';$END$" description="Ember.computed.mapBy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imaliasMethod" value="import { aliasMethod } from '@ember/object';$END$" description="Ember.aliasMethod" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imgetWithDefault" value="import { getWithDefault } from '@ember/object';$END$" description="Ember.getWithDefault" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imgetProperties" value="import { getProperties } from '@ember/object';$END$" description="Ember.getProperties" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsum" value="import { sum } from '@ember/object/computed';$END$" description="Ember.computed.sum" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imoneWay" value="import { oneWay } from '@ember/object/computed';$END$" description="Ember.computed.oneWay" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsetProperties" value="import { setProperties } from '@ember/object';$END$" description="Ember.setProperties" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immin" value="import { min } from '@ember/object/computed';$END$" description="Ember.computed.min" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imfilterBy" value="import { filterBy } from '@ember/object/computed';$END$" description="Ember.computed.filterBy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="impromiseProxyMixin" value="import PromiseProxyMixin from '@ember/object/promise-proxy-mixin';$END$" description="Ember.PromiseProxyMixin" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imlt" value="import { lt } from '@ember/object/computed';$END$" description="Ember.computed.lt" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immixin" value="import Mixin from '@ember/object/mixin';$END$" description="Ember.Mixin" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsort" value="import { sort } from '@ember/object/computed';$END$" description="Ember.computed.sort" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imequal" value="import { equal } from '@ember/object/computed';$END$" description="Ember.computed.equal" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imobjectProxy" value="import ObjectProxy from '@ember/object/proxy';$END$" description="Ember.ObjectProxy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imobjecDefineProperty" value="import { defineProperty } from '@ember/object';$END$" description="Ember.defineProperty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imtrySet" value="import { trySet } from '@ember/object';$END$" description="Ember.trySet" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imfilter" value="import { filter } from '@ember/object/computed';$END$" description="Ember.computed.filter" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imgt" value="import { gt } from '@ember/object/computed';$END$" description="Ember.computed.gt" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imand" value="import { and } from '@ember/object/computed';$END$" description="Ember.computed.and" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcopy" value="import { copy } from '@ember/object/internals';$END$" description="Ember.copy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immapProperty" value="import { mapProperty } from '@ember/object/computed';$END$" description="Ember.computed.mapProperty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imaddListener" value="import { addListener } from '@ember/object/events';$END$" description="Ember.addListener" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imuniq" value="import { uniq } from '@ember/object/computed';$END$" description="Ember.computed.uniq" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imreadOnly" value="import { readOnly } from '@ember/object/computed';$END$" description="Ember.computed.readOnly" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imget" value="import { get } from '@ember/object';$END$" description="Ember.get" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imnotEmpty" value="import { notEmpty } from '@ember/object/computed';$END$" description="Ember.computed.notEmpty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imguidFor" value="import { guidFor } from '@ember/object/internals';$END$" description="Ember.guidFor" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imobserver" value="import { observer } from '@ember/object';$END$" description="Ember.observer" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcomputedProperty" value="import ComputedProperty from '@ember/object/computed';$END$" description="Ember.ComputedProperty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imempty" value="import { empty } from '@ember/object/computed';$END$" description="Ember.computed.empty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imevented" value="import Evented from '@ember/object/evented';$END$" description="Ember.Evented" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imobject" value="import EmberObject from '@ember/object';$END$" description="Ember.Object" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imalias" value="import { alias } from '@ember/object/computed';$END$" description="Ember.computed.alias" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcacheFor" value="import { cacheFor } from '@ember/object/internals';$END$" description="Ember.cacheFor" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdeprecatingAlias" value="import { deprecatingAlias } from '@ember/object/computed';$END$" description="Ember.computed.deprecatingAlias" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imor" value="import { or } from '@ember/object/computed';$END$" description="Ember.computed.or" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcoreObject" value="import CoreObject from '@ember/object/core';$END$" description="Ember.CoreObject" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imunion" value="import { union } from '@ember/object/computed';$END$" description="Ember.computed.union" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imintersect" value="import { intersect } from '@ember/object/computed';$END$" description="Ember.computed.intersect" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imon" value="import { on } from '@ember/object/evented';$END$" description="Ember.on" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imgte" value="import { gte } from '@ember/object/computed';$END$" description="Ember.computed.gte" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imobservable" value="import Observable from '@ember/object/observable';$END$" description="Ember.Observable" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

@@ -1,0 +1,12 @@
+<templateSet group="Ember.js import controller">
+	<template name="imcontroller" value="import Controller from '@ember/controller';$END$" description="Ember.Controller" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="iminjectController" value="import { inject } from '@ember/controller';$END$" description="Ember.inject.controller" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

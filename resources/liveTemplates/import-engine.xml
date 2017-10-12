@@ -1,0 +1,17 @@
+<templateSet group="Ember.js import engine">
+	<template name="imgetEngineParent" value="import { getEngineParent } from '@ember/engine';$END$" description="Ember.getEngineParent" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imengineInst" value="import EngineInstance from '@ember/engine/instance';$END$" description="Ember.EngineInstance" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imengine" value="import Engine from '@ember/engine';$END$" description="Ember.Engine" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

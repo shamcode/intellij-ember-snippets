@@ -1,0 +1,77 @@
+<templateSet group="Ember.js import rsvp">
+	<template name="imrsvpDefer" value="import { defer } from 'rsvp';$END$" description="Ember.RSVP.defer" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpHashSettled" value="import { hashSettled } from 'rsvp';$END$" description="Ember.RSVP.hashSettled" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpAll" value="import { all } from 'rsvp';$END$" description="Ember.RSVP.all" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvp" value="import RSVP from 'rsvp';$END$" description="Ember.RSVP" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="impromise" value="import { Promise } from 'rsvp';$END$" description="Ember.RSVP.Promise" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpOn" value="import { on } from 'rsvp';$END$" description="Ember.RSVP.on" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpReject" value="import { reject } from 'rsvp';$END$" description="Ember.RSVP.reject" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpAllSettled" value="import { allSettled } from 'rsvp';$END$" description="Ember.RSVP.allSettled" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpFilter" value="import { filter } from 'rsvp';$END$" description="Ember.RSVP.filter" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpMap" value="import { map } from 'rsvp';$END$" description="Ember.RSVP.map" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpDenodeify" value="import { denodeify } from 'rsvp';$END$" description="Ember.RSVP.denodeify" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpHash" value="import { hash } from 'rsvp';$END$" description="Ember.RSVP.hash" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpRace" value="import { race } from 'rsvp';$END$" description="Ember.RSVP.race" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpResolve" value="import { resolve } from 'rsvp';$END$" description="Ember.RSVP.resolve" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrsvpOff" value="import { off } from 'rsvp';$END$" description="Ember.RSVP.off" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

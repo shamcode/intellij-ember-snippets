@@ -1,0 +1,67 @@
+<templateSet group="Ember.js import runloop">
+	<template name="imscheduleOnce" value="import { scheduleOnce } from '@ember/runloop';$END$" description="Ember.run.scheduleOnce" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imthrottle" value="import { throttle } from '@ember/runloop';$END$" description="Ember.run.throttle" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imbegin" value="import { begin } from '@ember/runloop';$END$" description="Ember.run.begin" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imlater" value="import { later } from '@ember/runloop';$END$" description="Ember.run.later" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imbind" value="import { bind } from '@ember/runloop';$END$" description="Ember.run.bind" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imend" value="import { end } from '@ember/runloop';$END$" description="Ember.run.end" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imschedule" value="import { schedule } from '@ember/runloop';$END$" description="Ember.run.schedule" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcancel" value="import { cancel } from '@ember/runloop';$END$" description="Ember.run.cancel" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrun" value="import { run } from '@ember/runloop';$END$" description="Ember.run" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imonce" value="import { once } from '@ember/runloop';$END$" description="Ember.run.once" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imjoin" value="import { join } from '@ember/runloop';$END$" description="Ember.run.join" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imnext" value="import { next } from '@ember/runloop';$END$" description="Ember.run.next" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdebounce" value="import { debounce } from '@ember/runloop';$END$" description="Ember.run.debounce" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

@@ -1,0 +1,42 @@
+<templateSet group="Ember.js import utils">
+	<template name="imtypeOf" value="import { typeOf } from '@ember/utils';$END$" description="Ember.typeOf" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcompare" value="import { compare } from '@ember/utils';$END$" description="Ember.compare" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisBlank" value="import { isBlank } from '@ember/utils';$END$" description="Ember.isBlank" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisPresent" value="import { isPresent } from '@ember/utils';$END$" description="Ember.isPresent" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisNone" value="import { isNone } from '@ember/utils';$END$" description="Ember.isNone" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisEmpty" value="import { isEmpty } from '@ember/utils';$END$" description="Ember.isEmpty" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisEqual" value="import { isEqual } from '@ember/utils';$END$" description="Ember.isEqual" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imtryInvoke" value="import { tryInvoke } from '@ember/utils';$END$" description="Ember.tryInvoke" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

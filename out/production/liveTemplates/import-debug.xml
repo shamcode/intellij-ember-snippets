@@ -1,0 +1,47 @@
+<templateSet group="Ember.js import debug">
+	<template name="imdebug" value="import { debug } from '@ember/debug';$END$" description="Ember.debug" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrunInDebug" value="import { runInDebug } from '@ember/debug';$END$" description="Ember.runInDebug" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdebugDataAdapter" value="import DataAdapter from '@ember/debug/data-adapter';$END$" description="Ember.DataAdapter" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcontainerDebugAdapter" value="import ContainerDebugAdapter from '@ember/debug/container-debug-adapter';$END$" description="Ember.ContainerDebugAdapter" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="iminspect" value="import { inspect } from '@ember/debug';$END$" description="Ember.inspect" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imassert" value="import { assert } from '@ember/debug';$END$" description="Ember.assert" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imregisterDeprecationHandler" value="import { registerDeprecationHandler } from '@ember/debug';$END$" description="Ember.Debug.registerDeprecationHandler" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imregisterWarnHandler" value="import { registerWarnHandler } from '@ember/debug';$END$" description="Ember.Debug.registerWarnHandler" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imwarn" value="import { warn } from '@ember/debug';$END$" description="Ember.warn" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

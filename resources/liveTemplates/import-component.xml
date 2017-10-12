@@ -1,0 +1,32 @@
+<templateSet group="Ember.js import component">
+	<template name="imcomponent" value="import Component from '@ember/component';$END$" description="Ember.Component" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imtextField" value="import TextField from '@ember/component/text-field';$END$" description="Ember.TextField" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcheckbox" value="import Checkbox from '@ember/component/checkbox';$END$" description="Ember.Checkbox" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imhelper" value="import Helper from '@ember/component/helper';$END$" description="Ember.Helper" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imhelperHelper" value="import { helper } from '@ember/component/helper';$END$" description="Ember.Helper.helper" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imtextArea" value="import TextArea from '@ember/component/text-area';$END$" description="Ember.TextArea" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

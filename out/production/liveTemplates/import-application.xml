@@ -1,0 +1,52 @@
+<templateSet group="Ember.js import application">
+	<template name="imrunLoadHooks" value="import { runLoadHooks } from '@ember/application';$END$" description="Ember.runLoadHooks" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdeprecateFunc" value="import { deprecateFunc } from '@ember/application/deprecations';$END$" description="Ember.deprecateFunc" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imappInstance" value="import ApplicationInstance from '@ember/application/instance';$END$" description="Ember.ApplicationInstance" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imresolver" value="import Resolver from '@ember/application/resolver';$END$" description="Ember.Resolver" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdefaultResolver" value="import GlobalsResolver from '@ember/application/globals-resolver';$END$" description="Ember.DefaultResolver" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imonLoad" value="import { onLoad } from '@ember/application';$END$" description="Ember.onLoad" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imapp" value="import Application from '@ember/application';$END$" description="Ember.Application" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsetOwner" value="import { setOwner } from '@ember/application';$END$" description="Ember.setOwner" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imgetOwner" value="import { getOwner } from '@ember/application';$END$" description="Ember.getOwner" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdeprecate" value="import { deprecate } from '@ember/application/deprecations';$END$" description="Ember.deprecate" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

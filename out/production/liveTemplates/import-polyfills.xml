@@ -1,0 +1,27 @@
+<templateSet group="Ember.js import polyfills">
+	<template name="imhasPropertyAccessors" value="import { hasPropertyAccessors } from '@ember/polyfills';$END$" description="Ember.platform.hasPropertyAccessors" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcreate" value="import { create } from '@ember/polyfills';$END$" description="Ember.create" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immerge" value="import { merge } from '@ember/polyfills';$END$" description="Ember.merge" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imassign" value="import { assign } from '@ember/polyfills';$END$" description="Ember.assign" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imkeys" value="import { keys } from '@ember/polyfills';$END$" description="Ember.keys" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

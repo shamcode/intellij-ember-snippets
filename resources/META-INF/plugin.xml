@@ -1,0 +1,33 @@
+<idea-plugin url="https://github.com/shamcode/intellij-ember-snippets">
+  <id>com.shamcode.intellij.embersnippets</id>
+  <name>Ember Snippets</name>
+  <version>1.0</version>
+  <vendor url="https://github.com/shamcode">Eugene Burnashov</vendor>
+
+  <description><![CDATA[
+      Port of <a href="http://emberjs.com/">Ember.js</a> rfc176 compliant imports from <a href="https://github.com/mattmcmanus/atom-ember-snippets">atom-ember-snippets</a>
+    ]]></description>
+
+  <change-notes><![CDATA[
+
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="145.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <defaultLiveTemplatesProvider implementation="com.intellij.plugin.embersnippets.EmberSnippetsTemplatesProvider"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

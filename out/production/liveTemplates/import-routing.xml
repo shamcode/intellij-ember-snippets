@@ -1,0 +1,42 @@
+<templateSet group="Ember.js import routing">
+	<template name="imautoLocation" value="import AutoLocation from '@ember/routing/auto-location';$END$" description="Ember.AutoLocation" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imlocation" value="import Location from '@ember/routing/location';$END$" description="Ember.Location" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imroute" value="import Route from '@ember/routing/route';$END$" description="Ember.Route" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imlinkComponent" value="import LinkComponent from '@ember/routing/link-component';$END$" description="Ember.LinkComponent" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imroutingHash" value="import HashLocation from '@ember/routing/hash-location';$END$" description="Ember.HashLocation" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imroutingHistory" value="import HistoryLocation from '@ember/routing/history-location';$END$" description="Ember.HistoryLocation" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imnoneLocation" value="import NoneLocation from '@ember/routing/none-location';$END$" description="Ember.NoneLocation" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imrouter" value="import Router from '@ember/routing/router';$END$" description="Ember.Router" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

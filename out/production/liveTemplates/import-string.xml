@@ -1,0 +1,57 @@
+<templateSet group="Ember.js import string">
+	<template name="imcamelize" value="import { camelize } from '@ember/string';$END$" description="Ember.String.camelize" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdecamelize" value="import { decamelize } from '@ember/string';$END$" description="Ember.String.decamelize" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imcapitalize" value="import { capitalize } from '@ember/string';$END$" description="Ember.String.capitalize" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imunderscore" value="import { underscore } from '@ember/string';$END$" description="Ember.String.underscore" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imclassify" value="import { classify } from '@ember/string';$END$" description="Ember.String.classify" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imhtmlSafe" value="import { htmlSafe } from '@ember/string';$END$" description="Ember.String.htmlSafe" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imdasherize" value="import { dasherize } from '@ember/string';$END$" description="Ember.String.dasherize" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imw" value="import { w } from '@ember/string';$END$" description="Ember.String.w" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisHtmlSafe" value="import { isHtmlSafe } from '@ember/string';$END$" description="Ember.String.isHtmlSafe" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imfmt" value="import { fmt } from '@ember/string';$END$" description="Ember.String.fmt" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imloc" value="import { loc } from '@ember/string';$END$" description="Ember.String.loc" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

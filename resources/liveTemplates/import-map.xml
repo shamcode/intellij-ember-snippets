@@ -1,0 +1,12 @@
+<templateSet group="Ember.js import map">
+	<template name="immapWDefault" value="import MapWithDefault from '@ember/map/with-default';$END$" description="Ember.MapWithDefault" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immap" value="import EmberMap from '@ember/map';$END$" description="Ember.Map" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

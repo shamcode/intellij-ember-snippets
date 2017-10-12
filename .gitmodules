@@ -1,0 +1,3 @@
+[submodule "atom-ember-snippets"]
+	path = atom-ember-snippets
+	url = https://github.com/mattmcmanus/atom-ember-snippets.git

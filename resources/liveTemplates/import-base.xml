@@ -1,0 +1,37 @@
+<templateSet group="Ember.js import base">
+	<template name="imreset" value="import { reset } from '@ember/instrumentation';$END$" description="Ember.reset" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imsubscribe" value="import { subscribe } from '@ember/instrumentation';$END$" description="Ember.subscribe" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="iminstrument" value="import { instrument } from '@ember/instrumentation';$END$" description="Ember.instrument" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imunsubscribe" value="import { unsubscribe } from '@ember/instrumentation';$END$" description="Ember.unsubscribe" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imenum" value="import Enumerable from '@ember/enumerable';$END$" description="Ember.Enumerable" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="im$" value="import $ from 'jquery';$END$" description="Ember.$" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imerr" value="import EmberError from '@ember/error';$END$" description="Ember.Error" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

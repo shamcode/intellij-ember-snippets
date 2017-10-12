@@ -1,0 +1,32 @@
+<templateSet group="Ember.js import array">
+	<template name="imarrayProxy" value="import ArrayProxy from '@ember/array/proxy';$END$" description="Ember.ArrayProxy" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imisArray" value="import { isArray } from '@ember/array';$END$" description="Ember.isArray" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imemberArray" value="import { A } from '@ember/array';$END$" description="Ember.A" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immutArray" value="import MutableArray from '@ember/array/mutable';$END$" description="Ember.MutableArray" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="imarray" value="import EmberArray from '@ember/array';$END$" description="Ember.Array" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+	<template name="immakeArray" value="import { makeArray } from '@ember/array';$END$" description="Ember.makeArray" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>
