@@ -1,7 +1,7 @@
 <idea-plugin url="https://github.com/shamcode/intellij-ember-snippets">
   <id>com.shamcode.intellij.embersnippets</id>
   <name>Ember Snippets</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor url="https://github.com/shamcode">Eugene Burnashov</vendor>
 
   <description><![CDATA[
@@ -9,8 +9,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-
-    ]]>
+    see <a href="https://github.com/shamcode/intellij-ember-snippets/blob/master/CHANGELOG.md">https://github.com/shamcode/intellij-ember-snippets</a>
+  ]]>
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->

@@ -24,7 +24,14 @@ public class EmberSnippetsTemplatesProvider implements DefaultLiveTemplatesProvi
             "liveTemplates/import-service",
             "liveTemplates/import-string",
             "liveTemplates/import-test",
-            "liveTemplates/import-utils"
+            "liveTemplates/import-utils",
+            "liveTemplates/ember-decorators/import-component",
+            "liveTemplates/ember-decorators/import-controller",
+            "liveTemplates/ember-decorators/import-data",
+            "liveTemplates/ember-decorators/import-object",
+            "liveTemplates/ember-decorators/import-object-computed",
+            "liveTemplates/ember-decorators/import-object-evented",
+            "liveTemplates/ember-decorators/import-service"
         };
     }
 

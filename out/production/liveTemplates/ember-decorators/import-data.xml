@@ -1,0 +1,17 @@
+<templateSet group="ember-decorators import data">
+	<template name="imdattr" value="import { attr } from 'ember-decorators/data';$END$" description="import { attr } from 'ember-decorators/data';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdbelongsTo" value="import { belongsTo } from 'ember-decorators/data';$END$" description="import { belongsTo } from 'ember-decorators/data';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdhasMany" value="import { hasMany } from 'ember-decorators/data';$END$" description="import { hasMany } from 'ember-decorators/data';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

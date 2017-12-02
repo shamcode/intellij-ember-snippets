@@ -1,0 +1,22 @@
+<templateSet group="ember-decorators import object">
+	<template name="imdaction" value="import { action } from 'ember-decorators/object';$END$" description="import { action } from 'ember-decorators/object';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdcomputed" value="import { computed } from 'ember-decorators/object';$END$" description="import { computed } from 'ember-decorators/object';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdobserves" value="import { observes } from 'ember-decorators/object';$END$" description="import { observes } from 'ember-decorators/object';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdreadOnly" value="import { readOnly } from 'ember-decorators/object';$END$" description="import { readOnly } from 'ember-decorators/object';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

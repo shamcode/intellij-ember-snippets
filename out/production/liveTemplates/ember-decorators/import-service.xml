@@ -1,0 +1,7 @@
+<templateSet group="ember-decorators import service">
+	<template name="imdservice" value="import { service } from 'ember-decorators/service';$END$" description="import { service } from 'ember-decorators/service';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

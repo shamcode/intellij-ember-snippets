@@ -1,5 +1,6 @@
 # intellij-ember-snippets
-Port of ember rfc176 compliant imports from [atom-ember-snippets](https://github.com/mattmcmanus/atom-ember-snippets)
+Port of ember rfc176 compliant imports from [atom-ember-snippets](https://github.com/mattmcmanus/atom-ember-snippets) and liveTemplates for [ember-decorators](https://ember-decorators.github.io/ember-decorators/docs/index.html)
+
 
 ## Installation
 1. [Open the Settings/Preferences dialog](https://www.jetbrains.com/idea/help/accessing-settings.html#openIdeSettings) (OSX/Unix: <kbd>⌘,</kbd>, Windows: <kbd>Ctrl+Alt+S</kbd>)

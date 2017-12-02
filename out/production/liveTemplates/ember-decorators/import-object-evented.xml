@@ -1,0 +1,7 @@
+<templateSet group="ember-decorators import object/evented">
+	<template name="imdon" value="import { on } from 'ember-decorators/object/evented';$END$" description="import { on } from 'ember-decorators/object/evented';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="ember-decorators import controller">
+	<template name="imdcontroller" value="import { controller } from 'ember-decorators/controller';$END$" description="import { controller } from 'ember-decorators/controller';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>

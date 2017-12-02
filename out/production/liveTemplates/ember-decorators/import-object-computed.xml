@@ -1,0 +1,157 @@
+<templateSet group="ember-decorators import object/computed">
+	<template name="imdalias" value="import { alias } from 'ember-decorators/object/computed';$END$" description="import { alias } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdand" value="import { and } from 'ember-decorators/object/computed';$END$" description="import { and } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdbool" value="import { bool } from 'ember-decorators/object/computed';$END$" description="import { bool } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdcollect" value="import { collect } from 'ember-decorators/object/computed';$END$" description="import { collect } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imddeprecatingAlias" value="import { deprecatingAlias } from 'ember-decorators/object/computed';$END$" description="import { deprecatingAlias } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdempty" value="import { empty } from 'ember-decorators/object/computed';$END$" description="import { empty } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdequal" value="import { equal } from 'ember-decorators/object/computed';$END$" description="import { equal } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdfilter" value="import { filter } from 'ember-decorators/object/computed';$END$" description="import { filter } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdfilterBy" value="import { filterBy } from 'ember-decorators/object/computed';$END$" description="import { filterBy } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdgt" value="import { gt } from 'ember-decorators/object/computed';$END$" description="import { gt } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdgte" value="import { gte } from 'ember-decorators/object/computed';$END$" description="import { gte } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdintersect" value="import { intersect } from 'ember-decorators/object/computed';$END$" description="import { intersect } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdlt" value="import { lt } from 'ember-decorators/object/computed';$END$" description="import { lt } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdlte" value="import { lte } from 'ember-decorators/object/computed';$END$" description="import { lte } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdmap" value="import { map } from 'ember-decorators/object/computed';$END$" description="import { map } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdmapBy" value="import { mapBy } from 'ember-decorators/object/computed';$END$" description="import { mapBy } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdmatch" value="import { match } from 'ember-decorators/object/computed';$END$" description="import { match } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdmax" value="import { max } from 'ember-decorators/object/computed';$END$" description="import { max } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdmin" value="import { min } from 'ember-decorators/object/computed';$END$" description="import { min } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdnone" value="import { none } from 'ember-decorators/object/computed';$END$" description="import { none } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdnot" value="import { not } from 'ember-decorators/object/computed';$END$" description="import { not } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdnotEmpty" value="import { notEmpty } from 'ember-decorators/object/computed';$END$" description="import { notEmpty } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdoneWay" value="import { oneWay } from 'ember-decorators/object/computed';$END$" description="import { oneWay } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdor" value="import { or } from 'ember-decorators/object/computed';$END$" description="import { or } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdreads" value="import { reads } from 'ember-decorators/object/computed';$END$" description="import { reads } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdsetDiff" value="import { setDiff } from 'ember-decorators/object/computed';$END$" description="import { setDiff } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdsort" value="import { sort } from 'ember-decorators/object/computed';$END$" description="import { sort } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdsum" value="import { sum } from 'ember-decorators/object/computed';$END$" description="import { sum } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imdunion" value="import { union } from 'ember-decorators/object/computed';$END$" description="import { union } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imduniq" value="import { uniq } from 'ember-decorators/object/computed';$END$" description="import { uniq } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+    <template name="imduniqBy" value="import { uniqBy } from 'ember-decorators/object/computed';$END$" description="import { uniqBy } from 'ember-decorators/object/computed';" toReformat="true">
+        <context>
+            <option name="JAVA_SCRIPT" value="true" />
+        </context>
+    </template>
+</templateSet>
